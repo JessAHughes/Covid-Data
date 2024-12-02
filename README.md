@@ -7,7 +7,7 @@ In this data analysis project I was curious on how different places in the world
 
 ### Data Source
 
-The data set used for this analysis can be found on " https://ourworldindata.org/covid-deaths " though it is a bit outdated at this point. The link also has their own helpful charts to visualize the data.
+The data set used for this analysis can be found on " https://ourworldindata.org/covid-deaths " though it is a bit outdated at this point. The link also has their own helpful charts to visualize the data. I could not include the dataset on my github as it was too big. 
 
 
 ### Tools
