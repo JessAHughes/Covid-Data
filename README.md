@@ -27,4 +27,4 @@ The data set used for this analysis can be found on " https://ourworldindata.org
 
 ### Results 
 
-Click this [link](https://public.tableau.com/app/profile/jesse3846/viz/CovidDashboard_16574902410880/Dashboard1?publish=yes) for an interactive visualization with my findings. 
+Click this [link](https://public.tableau.com/app/profile/jesse3846/viz/CovidDashboard_16574902410880/Dashboard1?publish=yes) for an interactive visualization on Tableau with my findings. 
